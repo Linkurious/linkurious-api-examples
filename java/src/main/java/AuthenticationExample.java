@@ -12,7 +12,7 @@ import org.apache.http.util.EntityUtils;
 import java.io.*;
 import java.util.Arrays;
 
-public class Example {
+public class AuthenticationExample {
 
     public static void main(String[] args) throws IOException {
         BasicCookieStore cookieStore = new BasicCookieStore();
