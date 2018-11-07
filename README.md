@@ -1,6 +1,8 @@
 # Linkurious REST API Examples
 
-See also [Linkurious Enterprise's REST API documentation](https://doc.linkurio.us/server-sdk/latest/apidoc/)
+See also:
+- [Linkurious Enterprise's REST API documentation](https://doc.linkurio.us/server-sdk/latest/apidoc/)
+- [Interactive examples using Linkurious Enterprise's API in JavaScript](https://doc.linkurio.us/server-sdk/latest/get-server-status/)
 
 ## Using the API with Java
 
